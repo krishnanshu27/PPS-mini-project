@@ -4,8 +4,8 @@ A **project** bringing to life, the digital version of the primitive **Bulls and
 
 ## Tools and Languages Used :
 <p>
-<img width="45" height="45" hspace="10" src="https://github.com/BarathKumarBK-15/BarathKumarBK-15/blob/main/icons/3.png"/>
-<img width="45" height="45" hspace="10" src="https://github.com/BarathKumarBK-15/BarathKumarBK-15/blob/main/icons/5.svg"/>
+<img width="45" height="45" hspace="10" src="https://github.com/blob/main/icons/3.png"/>
+<img width="45" height="45" hspace="10" src="https://github.com/blob/main/icons/5.svg"/>
 </p>
 
 ## Download and Usage :
