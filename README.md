@@ -56,17 +56,3 @@ The game contains multiple pages namely, _Home_, _Instruction_, _GamePlay_, _Pre
   - The `algorithm` is executed using simple `Data-Structures` like `Arrays` and basic concepts of `Functions` and `Loops`.
   - The `algorithm` contains seperate function to **calculate** the **number of bulls and cows** using `linear search`.
 
-
-**Note** : 
-The game has been further developed using `HTML5`, `CSS3` and `JavaScript` with a better graphical model and an interactive user-friendly layout. Click on the link below for more details.
-
-Project Link: https://github.com/BarathKumarBK-15/BullsandCowsWebPage
-
-Game Link: https://barathkumarbk-15.github.io/BullsandCowsWebPage
-
-## Contributors
-- <a href="https://github.com/Aravindkrish25"> Aravind M </a>
-- <a href="https://github.com/BarathKumarBK-15"> Barath Kumar G </a>
-- <a href="https://github.com/Bhooshaan"> Bhooshaan A </a>
-- <a href="https://github.com/dharundb">Dharun Bharathi S </a> 
-- <a href="https://github.com/Hrithik1702"> Hrithik B </a> 
