@@ -2,19 +2,8 @@
 
 A **project** bringing to life, the digital version of the primitive **Bulls and Cows game**, created using `C` language.
 
-## Tools and Languages Used :
-<p>
-<img width="45" height="45" hspace="10" src="https://github.com/BarathKumarBK-15/blob/main/icons/3.png"/>
-<img width="45" height="45" hspace="10" src="https://github.com/BarathKumarBK-15/blob/main/icons/5.svg"/>
-</p>
-
 ## Download and Usage :
 The code can be downloaded as a compressed `zip` file from the github web interface.
-
-The repository can also be cloned using:
-```
-git clone https://github.com/C-Mini-Project.git
-```
 
 The game can be deployed locally after extraction by compiling and running the `main.c` file using the sequence of code in the terminal:
 ```
